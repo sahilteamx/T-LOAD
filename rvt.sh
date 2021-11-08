@@ -1,5 +1,5 @@
 #!Script  author N117R0
-#By noob hackers
+#By Sahil
 #Be a creative person not copy paster
 
 ###################################
@@ -29,7 +29,7 @@ echo -e "\e[1m\e[31m\
 echo " "  
 echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31myoutube.com/noobhackers\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31myoutube.com/Sahil\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 echo "                           rverting wait for 10s please"
